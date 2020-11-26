@@ -15,3 +15,11 @@ git clone github.com/kaabima/youtube-finder-with-go.git
 ```
 go run finder.go -query "your keyword" -max-results 10
 ```
+
+after you run the code above, you will get the result like the following below:
+
+```
+Videos:
+The Top 10 Most Promising Medical Technologies UPDATED - The Medical Futurist
+URL: https://www.youtube.com/watch?v=dy5Hh_MTVRM
+```
