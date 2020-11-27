@@ -26,7 +26,7 @@ The Top 10 Most Promising Medical Technologies UPDATED - The Medical Futurist
 URL: https://www.youtube.com/watch?v=dy5Hh_MTVRM
 ```
 
-## Version 1.1
+### Version 1.1
 
 Output:
 ```
