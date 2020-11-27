@@ -18,3 +18,5 @@
 
 # Remove all json file
 *.json
+
+devel.go
